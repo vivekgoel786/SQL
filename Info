@@ -1,0 +1,14 @@
+data exploration 
+    data info, unique values in columns, data type, missing values, date variable, distributions, outliers, valid values
+
+Association analysis
+    correlation, subsetting imp variables, VIF
+
+Data preprocessing
+    treating discrete variables making dummies, dependent variable, treating continuous variables, bucketing of variables by calculating WOE, test and training data set
+
+Fitting the model
+  P values of each variable, keeping the significant variables
+
+Model Validation
+  fitting model on test data, calculating the accuracy, threshold tuning, auroc
